@@ -1,4 +1,4 @@
-# Hello!
+# Hi!
 
 ## Just a game developer
 
